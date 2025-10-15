@@ -1,7 +1,7 @@
 # 🗓️ Dev Log – Day 1: Getting Started with C++
 
 ## 📅 Date
-2025-10-15
+2025-10-12
 
 ## 🧠 What I Worked On
 - Followed W3Schools C++ beginner tutorial
