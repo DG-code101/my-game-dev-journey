@@ -11,4 +11,4 @@ Welcome to my dev journey. I'm building a Bible-inspired action game from scratc
 Check the `/devlogs` folder for daily updates.
 
 ## 🎥 TikTok Series
-Follow my journey on TikTok: [@just_gammawispy](https://tiktok.com/@just_gammawispy)
+Follow my journey on TikTok: [@gammawispy](https://tiktok.com/@gammawispy)
