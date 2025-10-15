@@ -23,7 +23,7 @@
 
 ## 🔗 Related Links
 - [TikTok Post](https://tiktok.com/@gammawispy)
-- [Commit: main.cpp](../code/First/main.cpp)
+- [Commit: main.cpp](../code/first/main.cpp)
 
 ## 🗣️ Notes or Reflections
 Feeling excited and a little nervous. But I’m proud I took the first step.
