@@ -1,4 +1,6 @@
 # Testament: Rise of the Chosen
+**One dev. One vision. One game inspired by faith.**
+
 
 Welcome to my dev journey. I'm building a Bible-inspired action game from scratch using C++. This repo documents my learning, progress, and creative process.
 
