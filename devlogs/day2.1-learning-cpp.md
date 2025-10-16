@@ -1,4 +1,4 @@
-# 🗓️ Dev Log – Day 2(cont'd): Struggling Through the Lasagna Exercise
+# 🗓️ Dev Log – Day 2.1: Struggling Through the Lasagna Exercise
 
 ## 📅 Date
 2025-10-15
