@@ -22,7 +22,7 @@
 - Making sure the GitHub links and TikTok references matched up
 
 ## 🎯 Next Steps
-- Continue with the next Exercism exercises
+- Continue with the next few exercises on Exercism
 - Start planning the first gameplay mechanic for *Testament*
 - Draft a roadmap section for my GitHub README
 
@@ -31,4 +31,6 @@
 - [TikTok – Lasagna Exercise](https://tiktok.com/@gammawispy)
 
 ## 🗣️ Notes or Reflections
-Today felt like a big sync moment. I’m not just coding—I’m building a story across platforms. Seeing my progress documented visually and technically makes it feel real. Let’s keep pushing.
+Today felt like a big sync moment. I’m not just coding—I’m building a story across platforms. Seeing my progress documented visually and technically makes it feel real.
+
+📚 **Heads-up:** I’ve got tests coming up next week, so I may not post or code much for a few days. Time to shift gears and focus on studying. The dev grind will resume soon.
