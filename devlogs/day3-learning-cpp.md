@@ -27,8 +27,8 @@
 - Draft a roadmap section for my GitHub README
 
 ## 🔗 Related Links
-- [TikTok – Starting C++ Track](https://tiktok.com/@gammawispy/video1)
-- [TikTok – Lasagna Exercise](https://tiktok.com/@gammawispy/video2)
+- [TikTok – Starting C++ Track](https://tiktok.com/@gammawispy)
+- [TikTok – Lasagna Exercise](https://tiktok.com/@gammawispy)
 - [Commit: devlog-day3.md](../devlogs/day3-tiktok-sync.md)
 
 ## 🗣️ Notes or Reflections
