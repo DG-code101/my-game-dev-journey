@@ -29,7 +29,6 @@
 ## 🔗 Related Links
 - [TikTok – Starting C++ Track](https://tiktok.com/@gammawispy)
 - [TikTok – Lasagna Exercise](https://tiktok.com/@gammawispy)
-- [Commit: devlog-day3.md](../devlogs/day3-tiktok-sync.md)
 
 ## 🗣️ Notes or Reflections
 Today felt like a big sync moment. I’m not just coding—I’m building a story across platforms. Seeing my progress documented visually and technically makes it feel real. Let’s keep pushing.
